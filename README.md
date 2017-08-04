@@ -1,2 +1,2 @@
 # WritingDrafts
-AGit
+a git for archive
