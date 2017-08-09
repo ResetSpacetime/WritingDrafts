@@ -1,0 +1,29 @@
+# 55题版
+
+## RLUEI
+
+avoidant, withdrawn, not usually happy, does not believe in human goodness, loner, moody, avoids crowds, depressed, overwhelmed by unpleasant feelings frequently, agnostic/atheistic tendencies, unsure where life is going, impatient, avoids eye contact, does not think things work out for the best, discontent, negative, suspicious of others, uncooperative, socially uncomfortable, hard to get to know, not punctual, low self confidence, pessimistic, lonely, does not finish work on time, does not like to lead, attracted to things associated with sadness, ambivalent about the problems of others, feels defective, fears failure, often bored, ambivalent about the suffering of others, unproductive, avoids unnecessary interaction, easily frustrated, does not finish many things, lower energy level, focuses on fantasies instead of reality, ambivalent about the needs of others, easily annoyed, rarely prepared, disorganized, quiet around strangers, slow to forgive, hard to understand, not that interested in others, skeptical, wounded at the core, self absorbed
+
+favored careers:
+
+philosopher, freelance writer, novelist, author, astronomer, book editor, freelance artist, scholar, bookstore owner, bookseller, screenwriter, philosophy professor, poet, cinematographer, artist, playwright, librarian, comic book artist, art historian, publisher, archeologist, scientist, composer, video game designer, egyptologist, museum curator, researcher, paleontologist, anthropologist, musician, genetics researcher, historian, theologian, research psychologist, art director, research scientist, songwriter, history professor, linguist, computer animator, professor of english, illustrator, painter, assassin, cartoonist, library assistant, travel writer, curator, film critic, environmental scientist, filmmaker, journalist, english professor, aerospace engineer, political scientist, computer scientist, art curator, audio engineer, archivist, art education, college professor, academic, technical writer, webmaster, animator, psychoanalyst, music journalist, geneticist, astronaut, research assistant, software developer, website designer, movie director, web developer, film editor, copywriter, digital artist, editor music therapist, geologist, web designer, biologist, biochemist, mercenary
+
+disfavored careers:
+
+supervisor, sports management, event planner, wedding planner, even coordinator, manager, business administrator, administrator, businessman, childcare worker, hospitality manager, hospitality worker, coach, office manager, sales associate, business manager, athletic trainer, kindergarten teacher, preschool teacher, office administrator, human resources manager, health care worker, public relations manager, personal assistant, customer service representative, customer service employee, administrative support, business owner, early childhood educator, social services worker, office worker, secretary, fundraiser, receptionist, sales manager, nurse practitioner, pediatric nurse, executive, executive assistant
+
+-----
+
+## Unstructured
+
+(7.8% of women; 9.7% of men)
+
+more random than controlled, likes to look wierd, more in the clouds than grounded, more comfortable when things are imperfect, does not like the security of working for a company, does not feel best when working, likes to go to concerts, untraditional, more abstract than logical, impulsive, more likely to enjoy drinking and smoking, underachiever, prone to wanting a tattoo, bad with money, prone to petty theft, likes night life and crowds, more artistic than articulate, prefers the unfamiliar, can't do anything when they don't feel good, has love/hate relationship with most things, does not value organized religion, likes to be different, more likely to have been hyperactive as a child, prone to add or adhd, flakey, prone to missing appointements, finds ordinary tasks draining
+
+favored careers:
+
+rock star, professional musician, songwriter, philosopher, comic book artist, artist, freelance artist, freelance writer, performing arts, poet, playwright, music journalist, record store owner, filmmaker, film producer, novelist, music performer, music industry, comedian, arts and media, music producer, cinematographer, tattoo artist, painter, disc jockey, cartoonist, author, graphic artist, art director, film critic, movie director, art curator, theater director, film editor, assassin, illustrator, photojournalist, body piercer, record producer, radio dj, theater industry, composer, travel writer, video game designer, video editor, singer, entertainer, philosophy professor, bartender, photo journalist, art education, animator, entertainment industry, movie producer, professional photographer, creative director, bar owner, art teacher, performer, music therapist, photographer, business manager, game designer, digital artist, activist, media industry, actor, producer, theater technician, audio engineer, music educator, bookseller, casting director, music teacher, band director, theater teacher, art therapist, publisher, international spy, journalist, bookstore owner, art historian, camera operator, costume designer, television producer, bounty hunter, broadcast journalist
+
+disfavored careers:
+
+office worker, office manager, business administrator, business manager, supervisor, manager, office assistant, government employee, administrator, businessman, administrative assistant, financial planner, administrative support, executive, banker, management consultant, account manager, financial advisor, executive assistant, accountant, financial manager, personal assistant, financial analyst, medical assistant, secretary, business analyst, business consultant, event planner, ceo, operations manager, project manager, public health, receptions, trainer, law enforcement, clerical employee, real estate agent, wedding planner, investment banker, part of the medical field, pediatric nurse
